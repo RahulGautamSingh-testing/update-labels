@@ -1,3 +1,4 @@
 {
-  "addLabels": ["old"]
+  "addLabels": ["old"],
+  "prHourlyLimit": 99
 }
