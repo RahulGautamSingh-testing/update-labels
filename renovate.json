@@ -1,4 +1,4 @@
 {
-  "addLabels": ["old", "new"],
+  "addLabels": ["a", "c", "b", "d"],
   "prHourlyLimit": 99
 }
