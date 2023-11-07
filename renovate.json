@@ -1,5 +1,4 @@
 {
   "prHourlyLimit": 99,
-  "addLabels": ["old"],
-  "enabledManagers": ["nvm"]
+  "addLabels": ["old"]
 }
